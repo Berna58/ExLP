@@ -41,7 +41,8 @@ public class Porto
     }
 
     /**
-     *
+     * Adicionar um novo navio
+     * Verifica se o capacidade total de navios é igual ao noMaxNavios no porto
      * @param n
      */
     public void novoNavio(Navio n)
@@ -87,7 +88,7 @@ public class Porto
     }
     
     /**
-     * Main do Programa
+     * Método Main do Programa
      * 
      * @param args
      */
