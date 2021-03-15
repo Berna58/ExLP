@@ -17,7 +17,7 @@ public class PortaContentores extends Navio
     }
 
     /**
-     *
+     * Get do NoContentores
      * @return 
      */
     public int getNoContentores() 
@@ -26,7 +26,7 @@ public class PortaContentores extends Navio
     }
 
     /**
-     *
+     * Set do NoContentores
      * @param noContentores
      */
     public void setNoContentores(int noContentores) 
